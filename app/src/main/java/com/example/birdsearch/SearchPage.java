@@ -23,6 +23,8 @@ public class SearchPage extends AppCompatActivity implements View.OnClickListene
     Button buttonSearch, buttonGoToSubmit;
     TextView textViewBirdName, textViewPersonName;
 
+    //add some content
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
