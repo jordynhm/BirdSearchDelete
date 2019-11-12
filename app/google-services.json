@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255201052521",
+    "firebase_url": "https://birdsearch.firebaseio.com",
+    "project_id": "birdsearch",
+    "storage_bucket": "birdsearch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255201052521:android:aecb90c29edcc120be9ff8",
+        "android_client_info": {
+          "package_name": "com.example.birdsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255201052521-spj785fsil3vs7r90lq71is08v8asafn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.birdsearch",
+            "certificate_hash": "4495f692e043ac6e018c58859c083fcbee18f2d3"
+          }
+        },
+        {
+          "client_id": "255201052521-n76kk3at79g7gge79sci5ksj3pnv5i90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7HUwcJB39n6_giav3ebBBdjrWBgDRpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255201052521-n76kk3at79g7gge79sci5ksj3pnv5i90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
